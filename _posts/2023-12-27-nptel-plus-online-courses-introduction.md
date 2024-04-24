@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "NPTEL PLUS: Elevating Online Learning with Flexibility and Accreditation"
-date:   2023-12-27 09:18:54 +0530
-categories: Learning, Self Study, NPTEL, MOOC
+title: "NPTEL PLUS: Elevating Online Learning with Flexibility and Accreditation"
+date: 2023-12-27 09:18:54 +0530
+categories: Learning "Self Study" NPTEL MOOC
 ---
 
 In the dynamic landscape of online education, NPTEL PLUS emerges as a distinguished platform, offering a unique blend of self-paced learning, accreditation, and a curated selection of courses. This initiative, spearheaded by prestigious institutes such as IIT Bombay, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Madras, IIT Roorkee, and IISc Bangalore, brings a wealth of knowledge to learners across diverse fields.
@@ -22,6 +22,7 @@ Diverse Courses Catering to Every Passion
 NPTEL PLUS boasts a diverse range of courses spanning various domains. From cutting-edge technologies like Machine Learning and Python for Data Science to disciplines such as Civil and Construction, Aircraft Engineering, Mechanical, Electronics, and Literature, the platform caters to a broad spectrum of interests. This expansive catalog empowers learners to explore their passions and gain expertise in fields that align with their career goals.
 
 ## Links
+
 The portal can be accessed by everyone at https://elearn.nptel.ac.in/
 
 ## Conclusion

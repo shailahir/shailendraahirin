@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Best Practices for Writing Clean and Maintainable Code"
-date:   2024-01-18 12:35:54 +0530
-categories: Learning Software Tips
+title: "Best Practices for Writing Clean and Maintainable Code"
+date: 2024-01-18 12:35:54 +0530
+categories: Learning "Software Tips"
 ---
 
 Writing clean and maintainable code is a crucial aspect of software development. Clean code not only makes it easier for others to understand your work but also enhances collaboration, reduces bugs, and facilitates future modifications. In this article, we will explore eight best practices to help you achieve cleaner and more maintainable code.
