@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tools I need"
+title: "Tools I need to perform day to day development tasks"
 date: 2024-04-24 23:13:31 +0530
 categories: Learning Tools
 ---
