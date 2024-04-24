@@ -7,44 +7,48 @@ categories: Learning Tools
 
 This article is kind of note to myself about the tools i use and like or like to use in future.
 
+## Windows OS based workstation
+
+Other OS is cool and all but I presonally feel that I am more productive when I work on windows based workstation.
+
 ## Multiple browsers
 
-Chrome
-Edge
-Opera
-Firefox
-Safari
+1. Chrome
+2. Edge
+3. Opera
+4. Firefox
+5. Safari - I dont think the latest version will be available for windows machine.
 
 ## Multiple nodejs installations
 
-node version manager (nvm)
-nodemon
+1. node version manager (nvm)
+2. nodemon
 
 ## Code editor
 
-VS Code
-VS code theme - Monokai
-Plugins - eslint, prettier
-Prettier - format on save
+1. VS Code
+2. VS code theme - Monokai
+3. Plugins - eslint, prettier
+4. Prettier - format on save
 
 ## Browser extensions
 
-React developer tools
-Redux dev tools
+1. React developer tools
+2. Redux dev tools
 
 ## Other software
 
-Postman 7
-Git SCM with Tortoise Git
-NodePad ++
-Winmerge - Life saver tool when time comes
+1. Postman 7
+2. Git SCM with Tortoise Git
+3. NodePad ++
+4. Winmerge - Life saver tool when time comes
 
 ## Other preferences
 
-Dual monitor setup
-Workstation with fast processor and internet
-Calm and clean environment
-Clear instructions :)
-Availability of mockups/FIGMA design is much appreciated.
+1. Dual monitor setup
+2. Workstation with fast processor and internet
+3. Calm and clean environment
+4. Clear instructions :)
+5. Availability of mockups/FIGMA design is much appreciated.
 
 I will revisit this article time to time, based on the need and experience on the day job.
